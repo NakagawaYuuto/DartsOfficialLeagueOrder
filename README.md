@@ -25,3 +25,5 @@ https://darts-league.jp/champ/terms-use/
 ・マッチに参加した回数の表示
 
 ・規定以上のゲームに参加した場合は警告を出す
+
+<img width="1227" alt="スクリーンショット 2023-02-09 18 33 10" src="https://user-images.githubusercontent.com/107293947/217779575-f10f8eda-a888-4608-9c25-c0f4b166fc6d.png">
